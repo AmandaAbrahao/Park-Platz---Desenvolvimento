@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    color:aliceblue;
+    font-family: 'Roboto', 'sans-serif';
+}
+header{
+    text-align: center;
+    position: absolute;
+    
+    
+}
+header hr{
+    max-width: 70vw;
+    border:1px solid #970C10
+}
+.HeadLogo{
+    max-height: 3.5em;
+
+}
+.start{
+    padding:17em 2em 13em 2em;    
+    background-image:url('https://lh3.googleusercontent.com/fife/APg5EOaU1NGCD6TRdOBK_vW1uVgyZ3LvaALXWHuodcekDZ1exX2WzYc_nJr4quAquBKxj7VsLI1wUcpr4bCbRHczyAgcBHoHW3yMEg7picYYPuw5G-Xe5VSIw3A14ZwgbrWo69pl6rOUn8oe334HAOqaBpTqn3s1gA_iUTGAHyN8hHOIkc12O8QYGmt5xS59PL17xy1ny8enFArO_HwaNOFBXLcyWun4tMlW_j3dfBdR4QDsHeJ8hq4xXWf4DyAFsE0e-m_TKqH985oSetyAlRKmtLfpicC-DhVNY635yUW6p4K9vz52lmACb68-8hj-a9IYQDvedpDaqOObfMps9OBzwJBr7wP9lt4AOrdfN0E3QlGG5GalF68csUSXwnRbR5By2P1YmSIIsA9eeVG7CCFAk7OdDVac6Sa7mvpGilASUDVsCfRg4uvCuLqouB1liY5OOTrvZfQ5PxowsNtzCZ4bW2D_glT7wGq1lne6h8rdNXOnBfVtovtr9oUZ9aHHzX3Y78XrogQ1QxJUANe-NhTmIpWxhN1AmaK-iUk1GTZqkmga2zRcIi2TFwtRi-CDX75cEv_FGg3H28uCsu_UlNYBFfz--6UJMUJrfq2H2hLaEL9Tp2Obw7jyph3a9ngdhkesfT3QVpp5g_hrdv3T6w-OwLmT7aa_3FUuzOsQ1kR6OlxjlHyPqv1LQqAL1dIgWTzZAV-RkPiE_2oPJ2ZBMQD57pnj5tKVbQczs5yZgozfOq7RkQut7RT8r1p0de5Vx6ZhTUj-hVGgFgy4ZxFVbVwZffxzyJjnMlZ8Yjrk1ojQ-xajoPkiZ2ggoGxveBDMioEkb0XTRDAq16SHmmGN3Brd8uvVN7v9pQAzqrSAwBDUZLiuPOImotpouhamj4KxFGFapybRFtMkcg13uvjij0ZNqpuUx7r44-LQOoY56TuLOLcA5xzoe4NnkhlFBHaSQ_-0o7IaQCXP-m2i5ebkEWOg2kqBBnIoGhKyY1CH9jFSMg1R6DQk250wM5DjD6XxTYhIxYWWBCUwf3ClysbTmLxQrQNiJJ5p2OIR68sDKALsVIBcVojAEdOY2Zp3PCVeHugCjTVRJtjebulfgYvVqiNs_-BxJTglsyioSWSqexR6LlL-9JxJkWQ8sstaIbA3wPzZT-5K8XWoVQgfhFWt-_5w7l6Nn7FoavSx-Rm0ospdzr7aSI-mPt-Ft-tAhtz8M6LoAUpmvYad6-GQC0SoBABgnhoyBtCIwl4VKHzkxJ9bdMZocatjoIN5KfvY6poWGmP1d_az6UmTeR3g-NYHbT4fY3R_0lK0mIYEHmu4fFnttHO8v5ofpUQvmvoIjaxNIs-9YWKi5ssuO6z8Tp5rRfKYWieyh9QCqRBnzI3wK-hfvtbCtqhoEfEDUmb8NGhcSgkBgmYxo3ACPopWwMwZuIcbn3FmLXBKYV5nZSLWHG42o9pcQhGiSiOZLQdkUomvilDv3Sr2P9MjoQbBiS8ZcTmnuurIXixIywBFhDz3y21ZRK6eqHVPucfvt44PLbpAIQPLIg=w2000-h1330');
+    background-position: 50% 5%;
+}
