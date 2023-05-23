@@ -5,12 +5,12 @@
     border: 0;
 }
 body{
-    background-color:#d9d9d9;
+    background-color:#070707;
 }
 header{
     position: absolute;
     text-align: center;
-    margin:2em auto;
+    margin:.5em auto;
     left: 50vw;
     transform: translate(-50%,0%);
 }
@@ -21,55 +21,21 @@ header hr{
     max-height: 3.5em;
 }
 .start{
+    text-align: center;
     color:aliceblue;
-    padding:17em 8em 13em;    
-    background-image:url('../IMG/Background.jpg');
-    background-position: 50% 5%;
+    padding:17em 2em 13em;    
+    background-image:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)),url('../IMG/Background.jpg');
+    background-position: 50% 50%;
     background-repeat: no-repeat;
     min-height: 25vh;
 }
 .start span{
     background-color: black;
 }
-#losango{
-    width:100px;
-    height:100px;
-    background-color: #d9d9d9;
-    margin-top:50px;
-    margin-left:50px;
-     /* Rotação */  
-     transform: rotate(-45deg);  
-    position: absolute;
-    left:45vw;
-    top:68.5vh;
-  }
-.btnStart{
-    align-items: center;
-    color:aliceblue;
-    text-transform: uppercase;
-    background-color: #970C10;
-    border-radius: 10px;
-    display: flex;
-    padding:.4em .8em .4em .6em;
-    font-size:.8em
-}
-.btnStart:hover{
-    background-color: #7c0b0e;
-    cursor:pointer;    
-}
-.btnStart:active{
-    width: 112px;
-    transform: translate(0px,5px);    
-    padding:.1em .6em .1em .6em;
-    font-size:.75em
-}
-svg{
-    margin:.2em .5em;
-}
 .start h2{
     text-transform: uppercase;
-    font-size: large;
-    margin:.7em;
+    font-size: 1.5em;
+    margin:.7em .3em;
 }
 .content{
     margin:2em 4em;
